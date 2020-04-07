@@ -1,0 +1,5 @@
+base::source("package_install.R")
+base::source("load_packages.R")
+base::source("miniconda_install.R")
+base::source("kaggle_install.R")
+base::source("spark_install.R")

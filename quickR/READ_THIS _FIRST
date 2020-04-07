@@ -1,0 +1,20 @@
+Hello World!
+
+Thank you for downloading the quickR script pack! Designed to let you analyze more and code less in R.
+It is highly advisable to use this pack within an Rproject using Rstudio cloud (https://rstudio.cloud).
+Set up a new project and git clone this repository therein.
+There are installation and command instructions in each folder.
+
+This pack is provided as is, with NO WARRANTY.
+I am not liable for loss of data or loss of functionality to your device in conjunction with this script pack.
+
+If you see a potential improvement, feel free to reach out via LinkedIn.
+This is my first full "app" written in R so please pardon the appearance/functionality while further improvements are made.
+
+Though quickR is intended to make competing in Kaggle competitions more streemlined while using R, it can be used in conjunction with any data analysis.
+
+Please don't forget to share, watch, and star this project. 
+
+Best,
+
+-JR

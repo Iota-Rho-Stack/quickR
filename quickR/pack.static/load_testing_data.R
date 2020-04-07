@@ -1,0 +1,1 @@
+readr::read_csv("test.csv", col_types = cols())
