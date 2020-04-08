@@ -20,7 +20,17 @@ kaggle competitions list
 
 quickR -
 
-Call each script using the base source() command.
+Call each script using the base source() command. Run...
+
+source("quickR_commands.R")
+
+to load each command as a global variable. Then run each command as...
+
+source(command)
+
+Use...
+
+source(command)$value to access the value of the output.
 
 Edit the load scripts to the source of the training and testing data respectively.
 

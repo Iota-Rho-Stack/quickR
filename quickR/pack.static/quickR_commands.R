@@ -1,0 +1,11 @@
+# quickR Commands
+algo <- "algo.R"
+dplyr_testing_subset <- "dplyr_testing_subset.R"
+dplyr_training_subset <- "dplyr_training_subset.R"
+load_libraries <- "load_libraries.R"
+load_testing_data <- "load_testing_data.R"
+load_testing_spark <- "load_testing_spark.R"
+load_training_data <- "load_training_data.R"
+load_training_spark <- "load_training_spark.R"
+prediction_output <- "prediction_output.R"
+submission <- "submission.R"
